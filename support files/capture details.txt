@@ -1,0 +1,11 @@
++ (on) =36975
+
+- (off)=43095
+
+mode(reset)=25245
+
+1 (brightness)=12495
+
+2 (light all power)=6375
+
+ 
